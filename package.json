@@ -7,16 +7,8 @@
     "dev": "nodemon index",
     "start": "node index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/g3vi/back-jwt.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/g3vi/back-jwt/issues"
-  },
-  "homepage": "https://github.com/g3vi/back-jwt#readme",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "bcrypt": "^5.1.0",
